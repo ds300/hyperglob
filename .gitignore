@@ -1,0 +1,16 @@
+# Logs
+*.log
+.*
+node_modules
+*.tgz
+
+!.gitignore
+!.prettierrc
+!.prettierignore
+!.eslintrc.cjs
+!.husky
+!.github
+
+
+coverage
+package

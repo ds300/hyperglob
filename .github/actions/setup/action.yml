@@ -1,0 +1,15 @@
+name: 'Setup'
+description: Setup action
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v3
+      with:
+        node-version: 22
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm install
+      shell: bash
