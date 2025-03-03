@@ -11,7 +11,7 @@ devDependencies:
     version: 10.44.0(@swc/core@1.3.51)(@types/node@18.15.11)(typescript@5.0.4)
   '@cloudflare/workers-types':
     specifier: ^4.20230404.0
-    version: 4.20230404.0
+    version: 4.20250224.0
   '@octokit/rest':
     specifier: ^19.0.7
     version: 19.0.7
@@ -570,8 +570,8 @@ packages:
       mime: 3.0.0
     dev: true
 
-  /@cloudflare/workers-types@4.20230404.0:
-    resolution: {integrity: sha512-fG3oaJX1icfsGV74nhx1+AC6opvZsGqnpx6FvrcVqQaBmCNkjKNqDRFrpasXWFiOIvysBXHKQAzsAJkBZgnM+A==}
+  /@cloudflare/workers-types@4.20250224.0:
+    resolution: {integrity: sha512-j6ZwQ5G2moQRaEtGI2u5TBQhVXv/XwOS5jfBAheZHcpCM07zm8j0i8jZHHLq/6VA8e6VRjKohOyj5j6tZ1KHLQ==}
     dev: true
 
   /@cspotcode/source-map-support@0.8.1:
