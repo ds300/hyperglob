@@ -44,7 +44,7 @@ devDependencies:
     version: 7.3.13
   '@types/slice-ansi':
     specifier: ^5.0.0
-    version: 5.0.0
+    version: 5.0.2
   '@types/source-map-support':
     specifier: ^0.5.6
     version: 0.5.6
@@ -1932,8 +1932,8 @@ packages:
     resolution: {integrity: sha512-21cFJr9z3g5dW8B0CVI9g2O9beqaThGQ6ZFBqHfwhzLDKUxaqTIy3vnfah/UPkfOiF2pLq+tGz+W8RyCskuslw==}
     dev: true
 
-  /@types/slice-ansi@5.0.0:
-    resolution: {integrity: sha512-Bt9wdwNObyD9EQMNN2GSeutWmpsZUC1/bip6XKawJ+cAK9Vhf2EwnSgg7G9Zd7KJv0fTvEbgHFjrHnImemyYQg==}
+  /@types/slice-ansi@5.0.2:
+    resolution: {integrity: sha512-IfxMqRjS0zNRHlbDgfMnYRW4LgYMjb+0XeVuMrC0H7/krAGeaQFQ1A4ijuEpmXT+KUspgzjQ2wFUO+xuCZao4A==}
     dev: true
 
   /@types/source-map-support@0.5.6:
