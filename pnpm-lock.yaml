@@ -3,7 +3,7 @@ lockfileVersion: '6.0'
 dependencies:
   slash:
     specifier: ^5.0.1
-    version: 5.0.1
+    version: 5.1.0
 
 devDependencies:
   '@auto-it/core':
@@ -5508,8 +5508,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /slash@5.0.1:
-    resolution: {integrity: sha512-ywNzUOiXwetmLvTUiCBZpLi+vxqN3i+zDqjs2HHfUSV3wN4UJxVVKWrS1JZDeiJIeBFNgB5pmioC2g0IUTL+rQ==}
+  /slash@5.1.0:
+    resolution: {integrity: sha512-ZA6oR3T/pEyuqwMgAKT0/hAv8oAXckzbkmR0UkUosQ+Mc4RxGoJkRmwHgHufaenlyAgE1Mxgpdcrf75y6XcnDg==}
     engines: {node: '>=14.16'}
     dev: false
 
